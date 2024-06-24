@@ -1,8 +1,8 @@
 ### Olá 👋
-Eu sou Renan Santos. Atualmente trabalho em projetos freelancers e em projetos pessoais relacionados ao desenvolvimento web.
+Eu sou Renan Santos. Trabalho em projetos freelancers e em projetos pessoais relacionados ao desenvolvimento web.
 
 - 🔭 Atualmente estou trabalhando e estudando (além disso, estou melhorando regularmente minhas habilidades em lógica de programação e algoritmos).
-- 🌱 Também tenho trabalhado no aprimoramento de minhas Soft Skills, principalmente “solução de problemas” e “comunicação”.
+- 🌱 Buscando aprimoramento de minhas Soft Skills, principalmente “solução de problemas” e “comunicação”.
 - 🤝 Por último, criei meus próprios projetos e colaborei em outros. Para manter o processo de aprendizagem contínuo.
  
  &nbsp; &nbsp;
@@ -16,19 +16,22 @@ Eu sou Renan Santos. Atualmente trabalho em projetos freelancers e em projetos p
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-#### Estudando no momento:
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 #### Bancos de dados:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
+#### Estudando no momento:
+
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### Ferramentas de trabalho:
 
